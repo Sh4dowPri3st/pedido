@@ -14,3 +14,4 @@
 // //true
 
 alert("ESTA LISTA SU ORDEN!!!")
+alert("Puede pasar a retirar por barra.")
